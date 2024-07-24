@@ -1,5 +1,5 @@
 # simple-battleship-game
-## This battleship game is based on a exercise in Codecademy.
+## This battleship game is based on an exercise in Codecademy.
 ### This repository contains a very simple implementation of the battleship game in python that the user can run.
 It contains the main file `battleship_game.py` which the user(s) can run in their local computer. 
 
